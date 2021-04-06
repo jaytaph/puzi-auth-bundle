@@ -49,5 +49,4 @@ class UziUser implements UserInterface
     {
         return $this->uzi;
     }
-
 }
