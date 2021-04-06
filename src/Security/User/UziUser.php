@@ -45,7 +45,7 @@ class UziUser implements UserInterface
     {
     }
 
-    public function GetUziUser(): \MinVWS\PUZI\UziUser
+    public function getUziUser(): \MinVWS\PUZI\UziUser
     {
         return $this->uzi;
     }
